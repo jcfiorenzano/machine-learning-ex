@@ -1,3 +1,7 @@
+# Description: Here we are going to use a very simple example of the use
+# of a decision tree with small data set of features and label
+# to predict if a determinate fruit it is a orange or an apple
+
 # author: Juan Carlos Fiorenzano
 # based on the Google Developers video tutorial :
 # https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal&index=4
